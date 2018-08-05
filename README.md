@@ -1,2 +1,2 @@
-# linuxrice
-My Arch/Void/Gentoo Rice[i3wm]
+# Linuxrice
+###My Arch/Void/Gentoo Rice[i3wm]
